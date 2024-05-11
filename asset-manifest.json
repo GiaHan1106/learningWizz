@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GiaHan1106/learningWizz.git/static/css/main.32e98fbc.css",
+    "main.js": "/GiaHan1106/learningWizz.git/static/js/main.dbbce0ee.js",
+    "static/js/453.fa5be8ad.chunk.js": "/GiaHan1106/learningWizz.git/static/js/453.fa5be8ad.chunk.js",
+    "index.html": "/GiaHan1106/learningWizz.git/index.html",
+    "main.32e98fbc.css.map": "/GiaHan1106/learningWizz.git/static/css/main.32e98fbc.css.map",
+    "main.dbbce0ee.js.map": "/GiaHan1106/learningWizz.git/static/js/main.dbbce0ee.js.map",
+    "453.fa5be8ad.chunk.js.map": "/GiaHan1106/learningWizz.git/static/js/453.fa5be8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e98fbc.css",
+    "static/js/main.dbbce0ee.js"
+  ]
+}
